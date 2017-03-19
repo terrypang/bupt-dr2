@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+data/
+!submitions/sample_submission.csv
+submitions/
+logs/
+features/
+weights/
+.ipynb_checkpoints/
+
+**.pyc
